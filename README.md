@@ -6,6 +6,8 @@ My first finished project
 <img width="1440" alt="Screen Shot 2021-09-30 at 9 43 34 PM" src="https://user-images.githubusercontent.com/85777054/135566711-8e1f5fdd-814e-4758-b57b-3c86f1fc79bd.png">
 <img width="1440" alt="Screen Shot 2021-09-30 at 9 44 36 PM" src="https://user-images.githubusercontent.com/85777054/135566719-8d1471b7-e1b2-46e5-9d01-6ae822239a19.png">
 
+Button Go Play Lost Ark isn't working because Lost Ark is not yet released in the world. Only accessible through Korea's Lost Ark website. 
+
 ## Client
 
 ### npm start
@@ -16,3 +18,4 @@ By using this line of code, you can run the client side of the code on localhost
 ### nodemon server.js
 Use this code in the terminal to start the server. 
 It is used to retrieve and post the data for the post and to run the server for the chat.
+
